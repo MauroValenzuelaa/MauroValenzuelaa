@@ -8,6 +8,7 @@ Hi, I'm Mauro Valenzuela!
 </p>
 
 <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+
 <hr>
 
 ```
