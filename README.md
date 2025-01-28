@@ -8,25 +8,26 @@ Hi, I'm Mauro Valenzuela!
 </p>
 
 <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-
 <hr>
 
+```
 maurovalenzuela100@hotmail.com
 -------------------------
 
 💻 I am a self taught Front End Developer.
-📚 I studying for a Bachelor's degree in Systems at the School of Computer Science,National University of La Plata (Argentina).
+📚 I studying for a Bachelor's degree in Systems at the School of Computer Science,
+National University of La Plata (Argentina).
 📝 I have a strong interest in web development.
 🌟 Main languages: JavaScript.
 🚩 Interested in becoming a Full Stack Developer.
 🎵 Love rock, metal and techno.
 
+```
+
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<p align="center">
+- <h3 align="start" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> </h3>
 
 ##
 
