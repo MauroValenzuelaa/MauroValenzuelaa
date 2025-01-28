@@ -16,8 +16,7 @@ maurovalenzuela100@hotmail.com
 -------------------------
 
 💻 I am a self taught Front End Developer.
-📚 I studying for a Bachelor's degree in Systems at the School of
-Computer Science,National University of La Plata (Argentina).
+📚 I studying for a Bachelor's degree in Systems at the School of Computer Science,National University of La Plata (Argentina).
 📝 I have a strong interest in web development.
 🌟 Main languages: JavaScript.
 🚩 Interested in becoming a Full Stack Developer.
